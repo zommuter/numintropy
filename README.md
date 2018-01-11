@@ -1,0 +1,2 @@
+# numintropy
+Numerics minimizing entropy.
